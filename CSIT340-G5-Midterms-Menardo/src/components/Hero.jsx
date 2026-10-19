@@ -3,6 +3,7 @@ import { Intro } from "./Intro";
 import { Stats } from "./Stats";
 import { Contribute } from "./Contribute";
 
+
 export function Hero(){
         const [stars, setStars] = useState(0);
       const [downloads, setDownloads] = useState(0);
